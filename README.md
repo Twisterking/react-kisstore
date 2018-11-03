@@ -1,2 +1,4 @@
 # react-kisstore
-just KISS
+just KISS :-)
+
+Nothing here yet, just to show off my very simple store solution based on React context.
