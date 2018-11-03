@@ -1,0 +1,2 @@
+# react-kisstore
+just KISS
